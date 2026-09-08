@@ -4,6 +4,7 @@ A website concept for Rhone Refrigeration & Air Conditioning Services, with a pe
 
 - [Current preview](https://hyprcs.github.io/rhone-website-preview/)
 - [Original version before the Sam refresh](https://hyprcs.github.io/rhone-website-preview/backup/)
+- [Three website options for the Sam meeting](https://hyprcs.github.io/rhone-website-preview/options/): original design, Sam at the bottom, and Sam at the top and bottom, with a compact layout and repaired quote selection controls.
 
 The backup is the exact page published before the 6 September 2026 refresh (commit 2521f705e779e21a59a1c148c3cbb776a755cba3).
 
