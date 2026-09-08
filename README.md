@@ -11,4 +11,4 @@ The meeting home links to website comparisons, six practical service areas and t
 
 This is a discussion presentation, not Rhone's official production website. The three website quote demos use invented example prices and do not submit enquiries or bookings. Workflow screens and n8n diagrams are illustrative proposals. Consultancy work is individually quoted after reviewing the actual requirements. Paid work, access, scope and total fees must be agreed before implementation; software costs and applicable GST are disclosed in the quote.
 
-The public files intentionally exclude private meeting notes, spreadsheets, internal costing and correspondence. All internal navigation uses relative links so the presentation also works from an extracted local copy.
+The home page includes a user-requested shortcut to the meeting notes Google Sheet; the sheet retains its existing Google access permissions. Spreadsheet contents, internal costing and correspondence are not included in this site. All internal navigation uses relative links so the presentation also works from an extracted local copy; the Google Sheet requires an internet connection.
