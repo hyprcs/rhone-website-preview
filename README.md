@@ -1,6 +1,6 @@
 # Rhone meeting presentation
 
-The meeting home links to website comparisons, six practical service areas and the tailored-quote approach.
+The meeting home links to website comparisons, seven practical service areas and the tailored-quote approach. Local SEO and Google advertising now have a dedicated page under services.
 
 - Home: https://hyprcs.github.io/rhone-website-preview/
 - Website comparison: https://hyprcs.github.io/rhone-website-preview/options/
